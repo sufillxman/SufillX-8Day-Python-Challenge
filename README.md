@@ -16,18 +16,14 @@ This repository contains all code, mini-projects, and daily practice of my **8-D
 
 **Mini Project:**  
 📟 **Simple Calculator** using user input and operators.
-
-
-
 ---
-
 ## 📌 Join Me!
 I'm sharing everything on my Instagram, LinkedIn, and GitHub.  
 Follow me and complete this 8-day challenge step by step!
 
 👉 **Follow for updates:**  
 - GitHub: [github.com/SUFILL X MAN
-- Instagram: `@https://www.instagram.com/sufillmaverick/`
+- Instagram: `https://www.instagram.com/sufillmaverick/`
   
 - LinkedIn: `https://www.linkedin.com/in/sufill-x-man-6798ba316/`
 
