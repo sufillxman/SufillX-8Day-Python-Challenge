@@ -17,7 +17,7 @@ This repository contains all code, mini-projects, and daily practice of my **8-D
 **Mini Project:**  
 📟 **Simple Calculator** using user input and operators.
 
-[🔗 Day 1 Code Folder](./Day1)
+
 
 ---
 
