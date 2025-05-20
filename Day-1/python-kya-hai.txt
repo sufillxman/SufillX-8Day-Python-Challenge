@@ -1,0 +1,24 @@
+✅ 1. Python Introduction
+Python kya hai?
+Python ek high-level, easy-to-learn programming language hai.
+Iska use hota hai:
+
+Web Development (Django, Flask)
+
+Data Science (Pandas, NumPy)
+
+Machine Learning (Scikit-learn, TensorFlow)
+
+Automation (Scripts banane)
+
+Game Development, etc.
+
+Kyun sikhe?
+Because:
+
+Simple syntax (English jaise lagta hai)
+
+Badiya community support
+
+Career ke liye powerful skill hai
+
