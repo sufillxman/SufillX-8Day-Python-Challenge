@@ -22,7 +22,7 @@ I'm sharing everything on my Instagram, LinkedIn, and GitHub.
 Follow me and complete this 8-day challenge step by step!
 
 👉 **Follow for updates:**  
-- GitHub: [github.com/SUFILL X MAN
+- GitHub:[ [github.com/SUFILL X MAN](https://github.com/sufillxman)
 - Instagram: `https://www.instagram.com/sufillmaverick/`
   
 - LinkedIn: `https://www.linkedin.com/in/sufill-x-man-6798ba316/`
