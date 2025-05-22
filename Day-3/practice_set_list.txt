@@ -1,0 +1,58 @@
+Python List Methods Practice Set
+
+Q1: Append करो
+
+fruits = ["apple", "banana"]
+# "cherry" को list में जोड़ो (method से)
+# 🔽 आपका code:
+__________
+print(fruits)
+
+
+ Q2: Insert करो index 1 पर
+
+fruits = ["apple", "banana"]
+# index 1 पर "cherry" insert करो
+# 🔽 आपका code:
+__________
+print(fruits)
+
+
+ Q3: Remove करो "banana"
+
+ fruits = ["apple", "banana", "cherry"]
+# "banana" को हटाओ
+# 🔽 आपका code:
+__________
+print(fruits)
+
+
+Q4: Pop करो last item
+
+fruits = ["apple", "banana", "cherry"]
+# last item हटाओ
+# 🔽 आपका code:
+__________
+print(fruits)
+
+ Q5: Sort करो numbers को
+
+ numbers = [4, 1, 3, 2]
+# ascending order में sort करो
+# 🔽 आपका code:
+__________
+print(numbers)
+
+ Q6: Reverse करो list को
+ fruits = ["apple", "banana", "cherry"]
+# list को उल्टा करो
+# 🔽 आपका code:
+__________
+print(fruits)
+
+Practice Task
+
+names = []
+# User से 5 नाम लो और list में store करो
+# फिर alphabetical order में sort करो
+# एक नाम remove करो (user से input लेकर)
